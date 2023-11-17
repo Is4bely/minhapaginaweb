@@ -1,5 +1,5 @@
 body {
-    background: crimson;
+    background: rgb(244, 242, 244);
 }
 
 #titulo {
@@ -19,7 +19,7 @@ color: black;}
     color: black;
 }
 
-#img{
+#img1{
     display: block;
     margin: 0 auto;
 }
@@ -28,4 +28,29 @@ color: black;}
     text-align: center;
     font-size: 30px;
     color: chocolate;
+}
+.ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    font-size: 20px;
+}
+
+#img2{
+    width: 50%;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    color: darkred;
+}
+
+.principal{
+    background: black;
+}
+
+.beneficios{
+    background: lightcoral;
 }
